@@ -1,0 +1,27 @@
+{
+  "name": "sprint.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Api.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZlataPavlova/sprint.github.io.git"
+  },
+  "author": "Pavlova Zlata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZlataPavlova/sprint.github.io/issues"
+  },
+  "homepage": "https://github.com/ZlataPavlova/sprint.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
